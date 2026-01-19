@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" viewBox="0 0 120 32">
+  <rect width="120" height="32" fill="none" />
+  <rect x="0" y="6" width="20" height="20" rx="4" fill="#ef3124" />
+  <text x="28" y="21" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#111827">
+    SK hynix
+  </text>
+</svg>
